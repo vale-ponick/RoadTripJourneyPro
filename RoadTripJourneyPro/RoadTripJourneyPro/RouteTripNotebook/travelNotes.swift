@@ -26,14 +26,14 @@ roadTripNotes.append(RoadNote(
     nameTrack: "Красноярск-Томск",
     km: 166.0,
     event: .speedCamera(maxSpeed: 60),
-    comment: "Камера перед Ачинскм на 164 км"
+    comment: "📹 Камера перед Ачинскм на 164 км"
 ))
 
 roadTripNotes.append(RoadNote(
     nameTrack: "Красноярск-Томск",
     km: 360.0,
     event: .heavyTrucks,
-    comment: "Много фур до Мариинска!"
+    comment: "🚛🚛🚛 Много фур до Мариинска!"
 ))
 
 func printRoadNotes() {
