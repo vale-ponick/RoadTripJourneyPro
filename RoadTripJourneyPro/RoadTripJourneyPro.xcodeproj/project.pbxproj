@@ -26,9 +26,9 @@
 		58B02E452EA288C000182C2D /* Exceptions for "RoadTripJourneyPro" folder in "RoadTripJourneyPro" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
+				GasStations/fuelPoints.swift,
 				RoutePointsData/routePoints.swift,
 				RouteTripNotebook/travelNotes.swift,
-				Services/routePrinter.swift,
 			);
 			target = 58B02E332EA26B9700182C2D /* RoadTripJourneyPro */;
 		};
