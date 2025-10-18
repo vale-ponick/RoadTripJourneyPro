@@ -22,9 +22,24 @@
 		58B02E342EA26B9700182C2D /* RoadTripJourneyPro */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = RoadTripJourneyPro; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		58B02E452EA288C000182C2D /* Exceptions for "RoadTripJourneyPro" folder in "RoadTripJourneyPro" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				RoutePointsData/routePoints.swift,
+				RouteTripNotebook/travelNotes.swift,
+				Services/routePrinter.swift,
+			);
+			target = 58B02E332EA26B9700182C2D /* RoadTripJourneyPro */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		58B02E362EA26B9700182C2D /* RoadTripJourneyPro */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				58B02E452EA288C000182C2D /* Exceptions for "RoadTripJourneyPro" folder in "RoadTripJourneyPro" target */,
+			);
 			path = RoadTripJourneyPro;
 			sourceTree = "<group>";
 		};
