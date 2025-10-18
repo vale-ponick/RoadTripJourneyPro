@@ -33,7 +33,7 @@ func printInfo(arrayPoints: [RoutePoint]) -> String {
     return result
 }
 let result = printInfo(arrayPoints: routePoints)
-// print(result)
+print(result)
 
 
 
