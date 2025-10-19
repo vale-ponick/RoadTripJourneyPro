@@ -27,6 +27,7 @@
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				GasStations/fuelPoints.swift,
+				JourneyBudget/journeyExpences.swift,
 				RoutePointsData/routePoints.swift,
 				RouteTripNotebook/travelNotes.swift,
 			);
